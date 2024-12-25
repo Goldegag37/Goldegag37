@@ -1,4 +1,4 @@
- I mainly use github to host some stuff i made
+Hi :3
 
 <!---
 Goldegag37/Goldegag37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
